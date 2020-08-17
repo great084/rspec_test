@@ -1,0 +1,7 @@
+require 'spec_helper'
+
+RSpec.describe X do
+  it "message return hello" do
+    expect().to eq 
+  end
+end
